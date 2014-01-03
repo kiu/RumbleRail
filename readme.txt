@@ -1,0 +1,3 @@
+RumbleRail is a standalone and modular Floppy Disk Jukebox - Load midi files onto the SD card and take it with you for tunes on the go!
+
+See http://schoar.de/tinkering/rumblerail for all the glory details...

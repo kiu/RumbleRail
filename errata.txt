@@ -1,0 +1,16 @@
+mechanical
+    - LCD Break out window is incorrectly aligned
+    - Floppy mounting holes should be vertically centered
+
+rrfdc
+    - Start/stop position should be hardware detected
+    - Software PWM for floppy motor too inaccurate with 8Mhz internal oscilator
+
+rled
+    - ok
+
+rrcmd
+    - ok
+
+rrsdc
+    - ok
